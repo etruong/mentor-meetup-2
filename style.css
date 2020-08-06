@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(207, 241, 241);
+}
+
+h1, h2, h3 {
+    font-family: 'Arvo', 'Times New Roman', Times, serif;
+    color: palegoldenrod;
+    -webkit-text-stroke: 1px burlywood;
+}
